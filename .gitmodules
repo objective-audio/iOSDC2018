@@ -1,0 +1,3 @@
+[submodule "FlowGraphDotConverter"]
+	path = FlowGraphDotConverter
+	url = https://github.com/objective-audio/FlowGraphDotConverter.git

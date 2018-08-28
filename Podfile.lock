@@ -1,0 +1,16 @@
+PODS:
+  - FlowGraph (0.4.0)
+
+DEPENDENCIES:
+  - FlowGraph
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FlowGraph
+
+SPEC CHECKSUMS:
+  FlowGraph: 537f75e6a916d73adea1155b1f3bed9543447e9e
+
+PODFILE CHECKSUM: bedeb27b9a4d46f41410e29f84826a599c196564
+
+COCOAPODS: 1.5.3
